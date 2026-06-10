@@ -82,14 +82,3 @@ python tools/eval_qatf.py \
 python tools/eval_iou.py --pred_dir outputs/massachusetts_qatf --gt_dir data/massachusetts/masks
 python tools/eval_cldice.py --pred_dir outputs/massachusetts_qatf --gt_dir data/massachusetts/masks
 ```
-
-## Citation
-
-```bibtex
-@article{rtrnet2026,
-  title   = {RTR-Net: Response-Level Topology Rectification for Open-Vocabulary Remote Sensing Linear-Structure Segmentation},
-  author  = {Anonymous},
-  journal = {IEEE Transactions on Geoscience and Remote Sensing},
-  year    = {2026}
-}
-```
