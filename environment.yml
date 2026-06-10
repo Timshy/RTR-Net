@@ -1,0 +1,17 @@
+name: rtrnet
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - pillow
+  - pyyaml
+  - tqdm
+  - scikit-image
+  - pip:
+      - torch>=2.0.0
+      - torchvision>=0.15.0
+      - opencv-python>=4.7.0

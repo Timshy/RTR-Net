@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "RTR-Net: Response-Level Topology Rectification for Open-Vocabulary Remote Sensing Linear-Structure Segmentation"
+message: "If you use this code, please cite the corresponding paper."
+type: software
+authors:
+  - family-names: Anonymous
+    given-names: Authors
+year: 2026
+license: MIT
+repository-code: "https://github.com/anonymous/RTR-Net"

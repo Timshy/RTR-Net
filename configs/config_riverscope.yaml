@@ -1,0 +1,15 @@
+dataset:
+  name: riverscope
+  image_dir: data/riverscope/images
+  mask_dir: data/riverscope/masks
+  response_dir: data/riverscope/responses
+qatf:
+  response_threshold: 0.50
+  rtr_threshold: 0.50
+  near_addition_radius: 20
+  pctr_preservation_radius: 30
+  eta_c: 11.0
+  eta_n: 0.62
+  eta_d: 0.41
+  gamma_c: 40.0
+  gamma_d: 0.60
